@@ -3,16 +3,7 @@
     {
       "id": "default",
       "name": "默认分类",
-      "books": [
-        {
-          "id": "All Kinds of Faces",
-          "title": "All Kinds of Faces",
-          "pdfAsset": "assets/books/default/All_Kinds_of_Faces.pdf",
-          "jsonAsset": "assets/books/default/All Kinds of Faces.json",
-          "pageCount": 11,
-          "blockCount": 8
-        }
-      ]
+      "books": []
     }
   ]
 }
