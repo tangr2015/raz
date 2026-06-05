@@ -1,3 +1,9 @@
 {
-  "collections": []
+  "collections": [
+    {
+      "id": "raz",
+      "name": "raz",
+      "books": []
+    }
+  ]
 }
