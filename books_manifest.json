@@ -13,7 +13,16 @@
     {
       "id": "raz/A",
       "name": "A",
-      "books": []
+      "books": [
+        {
+          "id": "All Kinds of Faces",
+          "title": "All Kinds of Faces",
+          "pdfAsset": "assets/books/raz/A/All_Kinds_of_Faces.pdf",
+          "jsonAsset": "assets/books/raz/A/All Kinds of Faces.json",
+          "pageCount": 11,
+          "blockCount": 8
+        }
+      ]
     }
   ]
 }
