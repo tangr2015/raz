@@ -1,0 +1,142 @@
+{
+  "source_pdf": "We_Build.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        419.25,
+        1616.25,
+        808.5,
+        1718.25
+      ],
+      "text": "We draw.",
+      "width": 389.25,
+      "height": 102,
+      "unit": "ocr-line",
+      "max_font_size": 28.56,
+      "ocr_confidence": 0.9921
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        456.75,
+        1613.25,
+        804,
+        1728
+      ],
+      "text": "We saw.",
+      "width": 347.25,
+      "height": 114.75,
+      "unit": "ocr-line",
+      "max_font_size": 32.13,
+      "ocr_confidence": 0.9946
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        423.75,
+        1617,
+        804.75,
+        1716
+      ],
+      "text": "We sand.",
+      "width": 381,
+      "height": 99,
+      "unit": "ocr-line",
+      "max_font_size": 27.72,
+      "ocr_confidence": 0.9861
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        372.75,
+        1615.5,
+        882.75,
+        1726.5
+      ],
+      "text": "We hammer.",
+      "width": 510,
+      "height": 111,
+      "unit": "ocr-line",
+      "max_font_size": 31.08,
+      "ocr_confidence": 0.9942
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        444.75,
+        1617.75,
+        780,
+        1715.25
+      ],
+      "text": "We drill.",
+      "width": 335.25,
+      "height": 97.5,
+      "unit": "ocr-line",
+      "max_font_size": 27.3,
+      "ocr_confidence": 0.999
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        426.75,
+        1611,
+        829.5,
+        1732.5
+      ],
+      "text": "We paint.",
+      "width": 402.75,
+      "height": 121.5,
+      "unit": "ocr-line",
+      "max_font_size": 34.02,
+      "ocr_confidence": 0.9895
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        423.75,
+        1606.5,
+        802.5,
+        1743
+      ],
+      "text": "We glue.",
+      "width": 378.75,
+      "height": 136.5,
+      "unit": "ocr-line",
+      "max_font_size": 38.22,
+      "ocr_confidence": 0.9954
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        426,
+        1605.75,
+        825.75,
+        1736.25
+      ],
+      "text": "We hang.",
+      "width": 399.75,
+      "height": 130.5,
+      "unit": "ocr-line",
+      "max_font_size": 36.54,
+      "ocr_confidence": 0.9944
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source_pdf": "One.pdf",
+  "pages": 9,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 2,
+      "index": 0,
+      "bbox": [
+        65.25,
+        693,
+        234.75,
+        738
+      ],
+      "text": "One bed.",
+      "width": 169.5,
+      "height": 45,
+      "unit": "ocr-line",
+      "max_font_size": 12.6,
+      "ocr_confidence": 0.9985
+    },
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        72.75,
+        696,
+        324.75,
+        738
+      ],
+      "text": "One pillow.",
+      "width": 252,
+      "height": 42,
+      "unit": "ocr-line",
+      "max_font_size": 11.76,
+      "ocr_confidence": 0.9408
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        66,
+        695.25,
+        338.25,
+        735
+      ],
+      "text": "One window.",
+      "width": 272.25,
+      "height": 39.75,
+      "unit": "ocr-line",
+      "max_font_size": 11.13,
+      "ocr_confidence": 0.9833
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        72.75,
+        687,
+        318,
+        744
+      ],
+      "text": "One book.",
+      "width": 245.25,
+      "height": 57,
+      "unit": "ocr-line",
+      "max_font_size": 15.96,
+      "ocr_confidence": 0.7364
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        63,
+        690.75,
+        284.25,
+        742.5
+      ],
+      "text": "One toy.",
+      "width": 221.25,
+      "height": 51.75,
+      "unit": "ocr-line",
+      "max_font_size": 14.49,
+      "ocr_confidence": 0.8817
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        74.25,
+        687,
+        305.25,
+        750.75
+      ],
+      "text": "One rug.",
+      "width": 231,
+      "height": 63.75,
+      "unit": "ocr-line",
+      "max_font_size": 17.85,
+      "ocr_confidence": 0.9386
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        65.25,
+        689.25,
+        342,
+        740.25
+      ],
+      "text": "One blanket.",
+      "width": 276.75,
+      "height": 51,
+      "unit": "ocr-line",
+      "max_font_size": 14.28,
+      "ocr_confidence": 0.6099
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        73.5,
+        696,
+        245.25,
+        735.75
+      ],
+      "text": "One desk.",
+      "width": 171.75,
+      "height": 39.75,
+      "unit": "ocr-line",
+      "max_font_size": 11.13,
+      "ocr_confidence": 0.9907
+    }
+  ]
+}

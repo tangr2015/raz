@@ -1,0 +1,142 @@
+{
+  "source_pdf": "My_School_Bus.pdf",
+  "pages": 9,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 2,
+      "index": 0,
+      "bbox": [
+        68.25,
+        690,
+        288.75,
+        734.25
+      ],
+      "text": "The walk.",
+      "width": 220.5,
+      "height": 44.25,
+      "unit": "ocr-line",
+      "max_font_size": 12.39,
+      "ocr_confidence": 0.8407
+    },
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        72,
+        696,
+        258,
+        732.75
+      ],
+      "text": "The bench.",
+      "width": 186,
+      "height": 36.75,
+      "unit": "ocr-line",
+      "max_font_size": 10.29,
+      "ocr_confidence": 0.9999
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        65.25,
+        696,
+        210.75,
+        735
+      ],
+      "text": "The bus.",
+      "width": 145.5,
+      "height": 39,
+      "unit": "ocr-line",
+      "max_font_size": 10.71,
+      "ocr_confidence": 0.9999
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        73.5,
+        696,
+        304.5,
+        739.5
+      ],
+      "text": "The door.",
+      "width": 231,
+      "height": 43.5,
+      "unit": "ocr-line",
+      "max_font_size": 10.71,
+      "ocr_confidence": 0.9888
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        68.25,
+        698.25,
+        235.5,
+        738
+      ],
+      "text": "The steps.",
+      "width": 167.25,
+      "height": 39.75,
+      "unit": "ocr-line",
+      "max_font_size": 10.71,
+      "ocr_confidence": 0.9999
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        71.25,
+        692.25,
+        292.5,
+        745.5
+      ],
+      "text": "The seat.",
+      "width": 221.25,
+      "height": 53.25,
+      "unit": "ocr-line",
+      "max_font_size": 14.91,
+      "ocr_confidence": 0.8393
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        66.75,
+        696.75,
+        274.5,
+        732.75
+      ],
+      "text": "The window.",
+      "width": 207.75,
+      "height": 36,
+      "unit": "ocr-line",
+      "max_font_size": 10.08,
+      "ocr_confidence": 0.9995
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        73.5,
+        696,
+        259.5,
+        733.5
+      ],
+      "text": "The school.",
+      "width": 186,
+      "height": 37.5,
+      "unit": "ocr-line",
+      "max_font_size": 10.5,
+      "ocr_confidence": 0.9994
+    }
+  ]
+}

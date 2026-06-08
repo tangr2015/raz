@@ -1,0 +1,158 @@
+{
+  "source_pdf": "Counting_Bugs.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        143.25,
+        1605.75,
+        540,
+        1737
+      ],
+      "text": "One bug.",
+      "width": 396.75,
+      "height": 131.25,
+      "unit": "ocr-line",
+      "max_font_size": 36.75,
+      "ocr_confidence": 0.9845
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        156.75,
+        1606.5,
+        572.25,
+        1738.5
+      ],
+      "text": "Two bugs.",
+      "width": 415.5,
+      "height": 132,
+      "unit": "ocr-line",
+      "max_font_size": 36.96,
+      "ocr_confidence": 0.9877
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        143.25,
+        1602.75,
+        621.75,
+        1737
+      ],
+      "text": "Three bugs.",
+      "width": 478.5,
+      "height": 134.25,
+      "unit": "ocr-line",
+      "max_font_size": 37.59,
+      "ocr_confidence": 0.9983
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        160.5,
+        1618.5,
+        587.25,
+        1737
+      ],
+      "text": "Four bugs.",
+      "width": 426.75,
+      "height": 118.5,
+      "unit": "ocr-line",
+      "max_font_size": 33.18,
+      "ocr_confidence": 0.9993
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        147,
+        1617.75,
+        552.75,
+        1737
+      ],
+      "text": "Five bugs.",
+      "width": 405.75,
+      "height": 119.25,
+      "unit": "ocr-line",
+      "max_font_size": 33.39,
+      "ocr_confidence": 0.9497
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        153.75,
+        1609.5,
+        522.75,
+        1737.75
+      ],
+      "text": "Six bugs.",
+      "width": 369,
+      "height": 128.25,
+      "unit": "ocr-line",
+      "max_font_size": 35.91,
+      "ocr_confidence": 0.9938
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        139.5,
+        1604.25,
+        626.25,
+        1736.25
+      ],
+      "text": "Seven bugs.",
+      "width": 486.75,
+      "height": 132,
+      "unit": "ocr-line",
+      "max_font_size": 36.96,
+      "ocr_confidence": 0.9986
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        147,
+        1604.25,
+        768,
+        1744.5
+      ],
+      "text": "So many bugs!",
+      "width": 621,
+      "height": 140.25,
+      "unit": "ocr-line",
+      "max_font_size": 39.27,
+      "ocr_confidence": 0.9817
+    },
+    {
+      "page": 11,
+      "index": 0,
+      "bbox": [
+        175.5,
+        486.75,
+        657.75,
+        513
+      ],
+      "text": "would not include all the insects in this book.",
+      "width": 482.25,
+      "height": 26.25,
+      "unit": "ocr-line",
+      "max_font_size": 7.35,
+      "ocr_confidence": 0.9928
+    }
+  ]
+}

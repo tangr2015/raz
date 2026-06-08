@@ -1,0 +1,142 @@
+{
+  "source_pdf": "Big.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        243,
+        1566.75,
+        831.75,
+        1721.25
+      ],
+      "text": "A big house.",
+      "width": 588.75,
+      "height": 154.5,
+      "unit": "ocr-line",
+      "max_font_size": 43.26,
+      "ocr_confidence": 0.9665
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        255,
+        1559.25,
+        781.5,
+        1720.5
+      ],
+      "text": "A big dog.",
+      "width": 526.5,
+      "height": 161.25,
+      "unit": "ocr-line",
+      "max_font_size": 45.15,
+      "ocr_confidence": 0.9755
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        244.5,
+        1587,
+        733.5,
+        1745.25
+      ],
+      "text": "A big car.",
+      "width": 489,
+      "height": 158.25,
+      "unit": "ocr-line",
+      "max_font_size": 44.31,
+      "ocr_confidence": 0.9688
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        273,
+        1596.75,
+        758.25,
+        1742.25
+      ],
+      "text": "A big bus.",
+      "width": 485.25,
+      "height": 145.5,
+      "unit": "ocr-line",
+      "max_font_size": 40.74,
+      "ocr_confidence": 0.9945
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        238.5,
+        1591.5,
+        848.25,
+        1758.75
+      ],
+      "text": "A big plane.",
+      "width": 609.75,
+      "height": 167.25,
+      "unit": "ocr-line",
+      "max_font_size": 46.83,
+      "ocr_confidence": 0.9906
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        255,
+        1591.5,
+        772.5,
+        1743.75
+      ],
+      "text": "A big tree.",
+      "width": 517.5,
+      "height": 152.25,
+      "unit": "ocr-line",
+      "max_font_size": 42.63,
+      "ocr_confidence": 0.9746
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        237,
+        1590.75,
+        960.75,
+        1755
+      ],
+      "text": "A big elephant.",
+      "width": 723.75,
+      "height": 164.25,
+      "unit": "ocr-line",
+      "max_font_size": 45.99,
+      "ocr_confidence": 0.9951
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        256.5,
+        1584,
+        960.75,
+        1750.5
+      ],
+      "text": "A big g dinosaur.",
+      "width": 704.25,
+      "height": 166.5,
+      "unit": "ocr-line",
+      "max_font_size": 46.62,
+      "ocr_confidence": 0.7703
+    }
+  ]
+}

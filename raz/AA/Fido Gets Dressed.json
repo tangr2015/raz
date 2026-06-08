@@ -1,0 +1,174 @@
+{
+  "source_pdf": "Fido_Gets_Dressed.pdf",
+  "pages": 13,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        139.5,
+        1615.5,
+        624,
+        1731
+      ],
+      "text": "My s sweater.",
+      "width": 484.5,
+      "height": 115.5,
+      "unit": "ocr-line",
+      "max_font_size": 32.34,
+      "ocr_confidence": 0.8898
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        149.25,
+        1610.25,
+        565.5,
+        1737
+      ],
+      "text": "My boots.",
+      "width": 416.25,
+      "height": 126.75,
+      "unit": "ocr-line",
+      "max_font_size": 35.49,
+      "ocr_confidence": 0.9956
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        133.5,
+        1608,
+        474,
+        1736.25
+      ],
+      "text": "My hat.",
+      "width": 340.5,
+      "height": 128.25,
+      "unit": "ocr-line",
+      "max_font_size": 35.91,
+      "ocr_confidence": 0.9728
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        147.75,
+        1608.75,
+        550.5,
+        1739.25
+      ],
+      "text": "My scarf.",
+      "width": 402.75,
+      "height": 130.5,
+      "unit": "ocr-line",
+      "max_font_size": 36.54,
+      "ocr_confidence": 0.9915
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        135,
+        1610.25,
+        468,
+        1736.25
+      ],
+      "text": "My hat.",
+      "width": 333,
+      "height": 126,
+      "unit": "ocr-line",
+      "max_font_size": 35.28,
+      "ocr_confidence": 0.9804
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        144.75,
+        1605,
+        747,
+        1749
+      ],
+      "text": "My sunglasses.",
+      "width": 602.25,
+      "height": 144,
+      "unit": "ocr-line",
+      "max_font_size": 40.32,
+      "ocr_confidence": 0.9643
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        136.5,
+        1611,
+        469.5,
+        1734
+      ],
+      "text": "My hat.",
+      "width": 333,
+      "height": 123,
+      "unit": "ocr-line",
+      "max_font_size": 34.44,
+      "ocr_confidence": 0.9822
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        153,
+        1614,
+        539.25,
+        1734
+      ],
+      "text": "My cape.",
+      "width": 386.25,
+      "height": 120,
+      "unit": "ocr-line",
+      "max_font_size": 33.6,
+      "ocr_confidence": 0.9829
+    },
+    {
+      "page": 11,
+      "index": 0,
+      "bbox": [
+        135,
+        1609.5,
+        525.75,
+        1737
+      ],
+      "text": "My mask.",
+      "width": 390.75,
+      "height": 127.5,
+      "unit": "ocr-line",
+      "max_font_size": 35.7,
+      "ocr_confidence": 0.9893
+    },
+    {
+      "page": 12,
+      "index": 0,
+      "bbox": [
+        150.75,
+        1610.25,
+        485.25,
+        1736.25
+      ],
+      "text": "My hat.",
+      "width": 334.5,
+      "height": 126,
+      "unit": "ocr-line",
+      "max_font_size": 35.28,
+      "ocr_confidence": 0.9875
+    }
+  ]
+}

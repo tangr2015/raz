@@ -1,0 +1,142 @@
+{
+  "source_pdf": "The_Ocean.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        147.75,
+        1614,
+        565.5,
+        1719
+      ],
+      "text": "The water.",
+      "width": 417.75,
+      "height": 105,
+      "unit": "ocr-line",
+      "max_font_size": 29.4,
+      "ocr_confidence": 0.9992
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        159.75,
+        1610.25,
+        566.25,
+        1719
+      ],
+      "text": "The sand.",
+      "width": 406.5,
+      "height": 108.75,
+      "unit": "ocr-line",
+      "max_font_size": 30.45,
+      "ocr_confidence": 0.9808
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        147,
+        1614.75,
+        553.5,
+        1718.25
+      ],
+      "text": "The coral.",
+      "width": 406.5,
+      "height": 103.5,
+      "unit": "ocr-line",
+      "max_font_size": 28.98,
+      "ocr_confidence": 0.9731
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        162,
+        1611.75,
+        707.25,
+        1719.75
+      ],
+      "text": "The seaweed.",
+      "width": 545.25,
+      "height": 108,
+      "unit": "ocr-line",
+      "max_font_size": 30.24,
+      "ocr_confidence": 0.9873
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        143.25,
+        1605,
+        493.5,
+        1718.25
+      ],
+      "text": "The fish.",
+      "width": 350.25,
+      "height": 113.25,
+      "unit": "ocr-line",
+      "max_font_size": 31.71,
+      "ocr_confidence": 0.9952
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        160.5,
+        1610.25,
+        555.75,
+        1719.75
+      ],
+      "text": "The crab.",
+      "width": 395.25,
+      "height": 109.5,
+      "unit": "ocr-line",
+      "max_font_size": 30.66,
+      "ocr_confidence": 0.9698
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        141.75,
+        1604.25,
+        629.25,
+        1722.75
+      ],
+      "text": "The starfish.",
+      "width": 487.5,
+      "height": 118.5,
+      "unit": "ocr-line",
+      "max_font_size": 33.18,
+      "ocr_confidence": 0.9983
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        162,
+        1613.25,
+        595.5,
+        1720.5
+      ],
+      "text": "The ocean.",
+      "width": 433.5,
+      "height": 107.25,
+      "unit": "ocr-line",
+      "max_font_size": 30.03,
+      "ocr_confidence": 0.9993
+    }
+  ]
+}

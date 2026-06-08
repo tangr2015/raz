@@ -1,0 +1,142 @@
+{
+  "source_pdf": "Water.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        149.25,
+        1621.5,
+        408.75,
+        1716
+      ],
+      "text": "Water.",
+      "width": 259.5,
+      "height": 94.5,
+      "unit": "ocr-line",
+      "max_font_size": 26.46,
+      "ocr_confidence": 0.9996
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        162.75,
+        1617.75,
+        615.75,
+        1728
+      ],
+      "text": "The ocean.",
+      "width": 453,
+      "height": 110.25,
+      "unit": "ocr-line",
+      "max_font_size": 30.87,
+      "ocr_confidence": 0.9981
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        149.25,
+        1616.25,
+        509.25,
+        1718.25
+      ],
+      "text": "The lake.",
+      "width": 360,
+      "height": 102,
+      "unit": "ocr-line",
+      "max_font_size": 28.56,
+      "ocr_confidence": 0.9969
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        162,
+        1616.25,
+        549.75,
+        1722.75
+      ],
+      "text": "The river.",
+      "width": 387.75,
+      "height": 106.5,
+      "unit": "ocr-line",
+      "max_font_size": 29.82,
+      "ocr_confidence": 0.9814
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        150,
+        1620.75,
+        500.25,
+        1716.75
+      ],
+      "text": "The rain.",
+      "width": 350.25,
+      "height": 96,
+      "unit": "ocr-line",
+      "max_font_size": 26.88,
+      "ocr_confidence": 0.9968
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        162,
+        1617,
+        564,
+        1726.5
+      ],
+      "text": "The snow.",
+      "width": 402,
+      "height": 109.5,
+      "unit": "ocr-line",
+      "max_font_size": 30.66,
+      "ocr_confidence": 0.9978
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        149.25,
+        1616.25,
+        479.25,
+        1720.5
+      ],
+      "text": "The ice.",
+      "width": 330,
+      "height": 104.25,
+      "unit": "ocr-line",
+      "max_font_size": 29.19,
+      "ocr_confidence": 0.9986
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        163.5,
+        1621.5,
+        411,
+        1717.5
+      ],
+      "text": "Water.",
+      "width": 247.5,
+      "height": 96,
+      "unit": "ocr-line",
+      "max_font_size": 26.88,
+      "ocr_confidence": 0.9993
+    }
+  ]
+}

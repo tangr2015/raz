@@ -1,0 +1,142 @@
+{
+  "source_pdf": "The_Fort.pdf",
+  "pages": 9,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 2,
+      "index": 0,
+      "bbox": [
+        66.75,
+        691.5,
+        323.25,
+        733.5
+      ],
+      "text": "The friends.",
+      "width": 256.5,
+      "height": 42,
+      "unit": "ocr-line",
+      "max_font_size": 10.5,
+      "ocr_confidence": 0.8895
+    },
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        72,
+        693.75,
+        258,
+        735.75
+      ],
+      "text": "The chairs.",
+      "width": 186,
+      "height": 42,
+      "unit": "ocr-line",
+      "max_font_size": 11.76,
+      "ocr_confidence": 0.9994
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        66.75,
+        695.25,
+        257.25,
+        737.25
+      ],
+      "text": "The pillows.",
+      "width": 190.5,
+      "height": 42,
+      "unit": "ocr-line",
+      "max_font_size": 11.76,
+      "ocr_confidence": 0.9992
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        72,
+        693,
+        341.25,
+        735
+      ],
+      "text": "The blankets.",
+      "width": 269.25,
+      "height": 42,
+      "unit": "ocr-line",
+      "max_font_size": 11.76,
+      "ocr_confidence": 0.8907
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        66.75,
+        687.75,
+        301.5,
+        734.25
+      ],
+      "text": "The food.",
+      "width": 234.75,
+      "height": 46.5,
+      "unit": "ocr-line",
+      "max_font_size": 13.02,
+      "ocr_confidence": 0.76
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        70.5,
+        689.25,
+        340.5,
+        741.75
+      ],
+      "text": "The games.",
+      "width": 270,
+      "height": 52.5,
+      "unit": "ocr-line",
+      "max_font_size": 13.44,
+      "ocr_confidence": 0.6669
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        67.5,
+        692.25,
+        295.5,
+        741
+      ],
+      "text": "The lights.",
+      "width": 228,
+      "height": 48.75,
+      "unit": "ocr-line",
+      "max_font_size": 12.81,
+      "ocr_confidence": 0.8891
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        71.25,
+        693.75,
+        222,
+        734.25
+      ],
+      "text": "The fort!",
+      "width": 150.75,
+      "height": 40.5,
+      "unit": "ocr-line",
+      "max_font_size": 11.34,
+      "ocr_confidence": 0.9937
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source_pdf": "In.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        717,
+        966.75,
+        1184.25,
+        1084.5
+      ],
+      "text": "In the car.",
+      "width": 467.25,
+      "height": 117.75,
+      "unit": "ocr-line",
+      "max_font_size": 32.97,
+      "ocr_confidence": 0.9993
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        666.75,
+        966,
+        1280.25,
+        1107
+      ],
+      "text": "In the wagon.",
+      "width": 613.5,
+      "height": 141,
+      "unit": "ocr-line",
+      "max_font_size": 39.48,
+      "ocr_confidence": 0.9996
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        693.75,
+        967.5,
+        1216.5,
+        1080
+      ],
+      "text": "In the boat.",
+      "width": 522.75,
+      "height": 112.5,
+      "unit": "ocr-line",
+      "max_font_size": 31.5,
+      "ocr_confidence": 0.9994
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        675.75,
+        969.75,
+        1256.25,
+        1084.5
+      ],
+      "text": "In the house.",
+      "width": 580.5,
+      "height": 114.75,
+      "unit": "ocr-line",
+      "max_font_size": 32.13,
+      "ocr_confidence": 0.9944
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        661.5,
+        967.5,
+        1239.75,
+        1082.25
+      ],
+      "text": "In the water.",
+      "width": 578.25,
+      "height": 114.75,
+      "unit": "ocr-line",
+      "max_font_size": 32.13,
+      "ocr_confidence": 0.9995
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        693,
+        973.5,
+        1244.25,
+        1096.5
+      ],
+      "text": "In the grass.",
+      "width": 551.25,
+      "height": 123,
+      "unit": "ocr-line",
+      "max_font_size": 30.24,
+      "ocr_confidence": 0.9998
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        694.5,
+        967.5,
+        1212.75,
+        1080.75
+      ],
+      "text": "In the mud.",
+      "width": 518.25,
+      "height": 113.25,
+      "unit": "ocr-line",
+      "max_font_size": 31.71,
+      "ocr_confidence": 0.9987
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        649.5,
+        972,
+        1291.5,
+        1082.25
+      ],
+      "text": "In the bathtub.",
+      "width": 642,
+      "height": 110.25,
+      "unit": "ocr-line",
+      "max_font_size": 30.87,
+      "ocr_confidence": 0.9995
+    }
+  ]
+}

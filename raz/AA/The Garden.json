@@ -1,0 +1,142 @@
+{
+  "source_pdf": "The_Garden.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        141.75,
+        1611.75,
+        546.75,
+        1738.5
+      ],
+      "text": "The peas.",
+      "width": 405,
+      "height": 126.75,
+      "unit": "ocr-line",
+      "max_font_size": 35.49,
+      "ocr_confidence": 0.9991
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        163.5,
+        1617.75,
+        602.25,
+        1721.25
+      ],
+      "text": "The beans.",
+      "width": 438.75,
+      "height": 103.5,
+      "unit": "ocr-line",
+      "max_font_size": 28.98,
+      "ocr_confidence": 0.988
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        144.75,
+        1614.75,
+        621.75,
+        1724.25
+      ],
+      "text": "The melons.",
+      "width": 477,
+      "height": 109.5,
+      "unit": "ocr-line",
+      "max_font_size": 30.66,
+      "ocr_confidence": 0.9979
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        161.25,
+        1617,
+        618.75,
+        1721.25
+      ],
+      "text": "The onions.",
+      "width": 457.5,
+      "height": 104.25,
+      "unit": "ocr-line",
+      "max_font_size": 29.19,
+      "ocr_confidence": 0.9985
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        141,
+        1609.5,
+        689.25,
+        1742.25
+      ],
+      "text": "The potatoes.",
+      "width": 548.25,
+      "height": 132.75,
+      "unit": "ocr-line",
+      "max_font_size": 37.17,
+      "ocr_confidence": 0.9976
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        161.25,
+        1614.75,
+        721.5,
+        1727.25
+      ],
+      "text": "The tomatoes.",
+      "width": 560.25,
+      "height": 112.5,
+      "unit": "ocr-line",
+      "max_font_size": 31.5,
+      "ocr_confidence": 0.9609
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        148.5,
+        1621.5,
+        528.75,
+        1712.25
+      ],
+      "text": "The corn.",
+      "width": 380.25,
+      "height": 90.75,
+      "unit": "ocr-line",
+      "max_font_size": 25.41,
+      "ocr_confidence": 0.9997
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        153.75,
+        1608,
+        656.25,
+        1738.5
+      ],
+      "text": "The garden.",
+      "width": 502.5,
+      "height": 130.5,
+      "unit": "ocr-line",
+      "max_font_size": 36.54,
+      "ocr_confidence": 0.9982
+    }
+  ]
+}

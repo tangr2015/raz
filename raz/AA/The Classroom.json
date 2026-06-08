@@ -1,0 +1,142 @@
+{
+  "source_pdf": "The_Classroom.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        150,
+        1616.25,
+        552,
+        1719
+      ],
+      "text": "The chair.",
+      "width": 402,
+      "height": 102.75,
+      "unit": "ocr-line",
+      "max_font_size": 28.77,
+      "ocr_confidence": 0.9942
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        164.25,
+        1617.75,
+        528.75,
+        1716.75
+      ],
+      "text": "The desk.",
+      "width": 364.5,
+      "height": 99,
+      "unit": "ocr-line",
+      "max_font_size": 27.72,
+      "ocr_confidence": 0.9967
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        150.75,
+        1618.5,
+        543,
+        1715.25
+      ],
+      "text": "The book.",
+      "width": 392.25,
+      "height": 96.75,
+      "unit": "ocr-line",
+      "max_font_size": 27.09,
+      "ocr_confidence": 0.9995
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        159,
+        1611.75,
+        599.25,
+        1738.5
+      ],
+      "text": "The paper.",
+      "width": 440.25,
+      "height": 126.75,
+      "unit": "ocr-line",
+      "max_font_size": 35.49,
+      "ocr_confidence": 0.9665
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        153.75,
+        1613.25,
+        582.75,
+        1725.75
+      ],
+      "text": "The pencil.",
+      "width": 429,
+      "height": 112.5,
+      "unit": "ocr-line",
+      "max_font_size": 31.5,
+      "ocr_confidence": 0.9991
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        167.25,
+        1623.75,
+        607.5,
+        1710
+      ],
+      "text": "The eraser.",
+      "width": 440.25,
+      "height": 86.25,
+      "unit": "ocr-line",
+      "max_font_size": 24.15,
+      "ocr_confidence": 0.9998
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        144,
+        1611.75,
+        720,
+        1728
+      ],
+      "text": "The backpack.",
+      "width": 576,
+      "height": 116.25,
+      "unit": "ocr-line",
+      "max_font_size": 32.55,
+      "ocr_confidence": 0.9989
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        166.5,
+        1621.5,
+        737.25,
+        1713
+      ],
+      "text": "The classroom.",
+      "width": 570.75,
+      "height": 91.5,
+      "unit": "ocr-line",
+      "max_font_size": 25.62,
+      "ocr_confidence": 0.9997
+    }
+  ]
+}

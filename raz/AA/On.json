@@ -1,0 +1,142 @@
+{
+  "source_pdf": "On.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        289.5,
+        1614,
+        933.75,
+        1745.25
+      ],
+      "text": "On the house.",
+      "width": 644.25,
+      "height": 131.25,
+      "unit": "ocr-line",
+      "max_font_size": 36.75,
+      "ocr_confidence": 0.9948
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        337.5,
+        1611.75,
+        917.25,
+        1742.25
+      ],
+      "text": "On the bike.",
+      "width": 579.75,
+      "height": 130.5,
+      "unit": "ocr-line",
+      "max_font_size": 36.54,
+      "ocr_confidence": 0.994
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        288,
+        1608,
+        931.5,
+        1756.5
+      ],
+      "text": "On the swing.",
+      "width": 643.5,
+      "height": 148.5,
+      "unit": "ocr-line",
+      "max_font_size": 41.58,
+      "ocr_confidence": 0.9881
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        340.5,
+        1612.5,
+        915,
+        1740
+      ],
+      "text": "On the bed.",
+      "width": 574.5,
+      "height": 127.5,
+      "unit": "ocr-line",
+      "max_font_size": 35.7,
+      "ocr_confidence": 0.9805
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        246,
+        1614.75,
+        977.25,
+        1746
+      ],
+      "text": "On the airplane.",
+      "width": 731.25,
+      "height": 131.25,
+      "unit": "ocr-line",
+      "max_font_size": 35.07,
+      "ocr_confidence": 0.9682
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        309,
+        1611,
+        948,
+        1744.5
+      ],
+      "text": "On the fence.",
+      "width": 639,
+      "height": 133.5,
+      "unit": "ocr-line",
+      "max_font_size": 37.38,
+      "ocr_confidence": 0.9976
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        302.25,
+        1612.5,
+        921,
+        1744.5
+      ],
+      "text": "On the table.",
+      "width": 618.75,
+      "height": 132,
+      "unit": "ocr-line",
+      "max_font_size": 36.96,
+      "ocr_confidence": 0.9611
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        294,
+        1612.5,
+        960,
+        1740
+      ],
+      "text": "On the skates.",
+      "width": 666,
+      "height": 127.5,
+      "unit": "ocr-line",
+      "max_font_size": 35.7,
+      "ocr_confidence": 0.9659
+    }
+  ]
+}

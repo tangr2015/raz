@@ -1,0 +1,206 @@
+{
+  "source_pdf": "the_city.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 2,
+      "index": 0,
+      "bbox": [
+        848.25,
+        1212.75,
+        863.25,
+        1219.5
+      ],
+      "text": ".",
+      "width": 15,
+      "height": 6.75,
+      "unit": "ocr-line",
+      "max_font_size": 1.89,
+      "ocr_confidence": 0.2738
+    },
+    {
+      "page": 2,
+      "index": 1,
+      "bbox": [
+        848.25,
+        1216.5,
+        863.25,
+        1223.25
+      ],
+      "text": ".",
+      "width": 15,
+      "height": 6.75,
+      "unit": "ocr-line",
+      "max_font_size": 1.89,
+      "ocr_confidence": 0.5683
+    },
+    {
+      "page": 2,
+      "index": 2,
+      "bbox": [
+        848.25,
+        1220.25,
+        867.75,
+        1227
+      ],
+      "text": ".",
+      "width": 19.5,
+      "height": 6.75,
+      "unit": "ocr-line",
+      "max_font_size": 1.89,
+      "ocr_confidence": 0.7926
+    },
+    {
+      "page": 2,
+      "index": 3,
+      "bbox": [
+        879.75,
+        1263,
+        891,
+        1269.75
+      ],
+      "text": ".",
+      "width": 11.25,
+      "height": 6.75,
+      "unit": "ocr-line",
+      "max_font_size": 1.89,
+      "ocr_confidence": 0.2565
+    },
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        387.75,
+        1618.5,
+        844.5,
+        1719
+      ],
+      "text": "The streets.",
+      "width": 456.75,
+      "height": 100.5,
+      "unit": "ocr-line",
+      "max_font_size": 28.14,
+      "ocr_confidence": 0.9948
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        429.75,
+        1614,
+        832.5,
+        1726.5
+      ],
+      "text": "The cars.",
+      "width": 402.75,
+      "height": 112.5,
+      "unit": "ocr-line",
+      "max_font_size": 31.5,
+      "ocr_confidence": 0.9992
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        389.25,
+        1615.5,
+        843,
+        1718.25
+      ],
+      "text": "The buses.",
+      "width": 453.75,
+      "height": 102.75,
+      "unit": "ocr-line",
+      "max_font_size": 27.93,
+      "ocr_confidence": 0.9995
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        392.25,
+        1610.25,
+        864.75,
+        1729.5
+      ],
+      "text": "The stores.",
+      "width": 472.5,
+      "height": 119.25,
+      "unit": "ocr-line",
+      "max_font_size": 33.39,
+      "ocr_confidence": 0.9839
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        397.5,
+        1603.5,
+        830.25,
+        1738.5
+      ],
+      "text": "The park.",
+      "width": 432.75,
+      "height": 135,
+      "unit": "ocr-line",
+      "max_font_size": 37.8,
+      "ocr_confidence": 0.9978
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        250.5,
+        1596.75,
+        1004.25,
+        1737.75
+      ],
+      "text": "The big gbuildings.",
+      "width": 753.75,
+      "height": 141,
+      "unit": "ocr-line",
+      "max_font_size": 39.48,
+      "ocr_confidence": 0.989
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        363,
+        1614.75,
+        866.25,
+        1737
+      ],
+      "text": "The people.",
+      "width": 503.25,
+      "height": 122.25,
+      "unit": "ocr-line",
+      "max_font_size": 34.23,
+      "ocr_confidence": 0.9998
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        415.5,
+        1617,
+        844.5,
+        1713.75
+      ],
+      "text": "The noise.",
+      "width": 429,
+      "height": 96.75,
+      "unit": "ocr-line",
+      "max_font_size": 27.09,
+      "ocr_confidence": 0.9995
+    }
+  ]
+}

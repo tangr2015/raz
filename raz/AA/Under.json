@@ -1,0 +1,142 @@
+{
+  "source_pdf": "Under.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        264,
+        1578.75,
+        964.5,
+        1685.25
+      ],
+      "text": "Under the chair.",
+      "width": 700.5,
+      "height": 106.5,
+      "unit": "ocr-line",
+      "max_font_size": 29.61,
+      "ocr_confidence": 0.9997
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        284.25,
+        1574.25,
+        974.25,
+        1689.75
+      ],
+      "text": "Under r the desk.",
+      "width": 690,
+      "height": 115.5,
+      "unit": "ocr-line",
+      "max_font_size": 32.34,
+      "ocr_confidence": 0.9689
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        255,
+        1570.5,
+        977.25,
+        1692.75
+      ],
+      "text": "Under the table.",
+      "width": 722.25,
+      "height": 122.25,
+      "unit": "ocr-line",
+      "max_font_size": 34.23,
+      "ocr_confidence": 0.9984
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        294.75,
+        1573.5,
+        966.75,
+        1692
+      ],
+      "text": "Under r the bed.",
+      "width": 672,
+      "height": 118.5,
+      "unit": "ocr-line",
+      "max_font_size": 33.18,
+      "ocr_confidence": 0.9529
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        240,
+        1572.75,
+        991.5,
+        1706.25
+      ],
+      "text": "Under r the pillow.",
+      "width": 751.5,
+      "height": 133.5,
+      "unit": "ocr-line",
+      "max_font_size": 37.38,
+      "ocr_confidence": 0.9784
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        200.25,
+        1575,
+        1056.75,
+        1691.25
+      ],
+      "text": "Under r the umbrella.",
+      "width": 856.5,
+      "height": 116.25,
+      "unit": "ocr-line",
+      "max_font_size": 32.55,
+      "ocr_confidence": 0.9524
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        231.75,
+        1554.75,
+        997.5,
+        1717.5
+      ],
+      "text": "Under the swing.",
+      "width": 765.75,
+      "height": 162.75,
+      "unit": "ocr-line",
+      "max_font_size": 45.57,
+      "ocr_confidence": 0.9924
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        291.75,
+        1572,
+        967.5,
+        1693.5
+      ],
+      "text": "Under the tree.",
+      "width": 675.75,
+      "height": 121.5,
+      "unit": "ocr-line",
+      "max_font_size": 34.02,
+      "ocr_confidence": 0.9958
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source_pdf": "Out.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        442.5,
+        953.25,
+        1149,
+        1095
+      ],
+      "text": "Out of the car.",
+      "width": 706.5,
+      "height": 141.75,
+      "unit": "ocr-line",
+      "max_font_size": 39.69,
+      "ocr_confidence": 0.9764
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        462,
+        975,
+        1301.25,
+        1119.75
+      ],
+      "text": "Out of the wagon.",
+      "width": 839.25,
+      "height": 144.75,
+      "unit": "ocr-line",
+      "max_font_size": 40.53,
+      "ocr_confidence": 0.9954
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        447,
+        957.75,
+        1195.5,
+        1080.75
+      ],
+      "text": "Out of the boat.",
+      "width": 748.5,
+      "height": 123,
+      "unit": "ocr-line",
+      "max_font_size": 34.44,
+      "ocr_confidence": 0.9738
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        468,
+        984.75,
+        1254,
+        1106.25
+      ],
+      "text": "Out of the house.",
+      "width": 786,
+      "height": 121.5,
+      "unit": "ocr-line",
+      "max_font_size": 34.02,
+      "ocr_confidence": 0.9995
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        447.75,
+        957.75,
+        1242,
+        1080
+      ],
+      "text": "Out of the water.",
+      "width": 794.25,
+      "height": 122.25,
+      "unit": "ocr-line",
+      "max_font_size": 34.23,
+      "ocr_confidence": 0.978
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        461.25,
+        969.75,
+        1244.25,
+        1130.25
+      ],
+      "text": "Out of the grass.",
+      "width": 783,
+      "height": 160.5,
+      "unit": "ocr-line",
+      "max_font_size": 44.94,
+      "ocr_confidence": 0.9975
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        447,
+        954.75,
+        1182.75,
+        1083
+      ],
+      "text": "Out of the mud.",
+      "width": 735.75,
+      "height": 128.25,
+      "unit": "ocr-line",
+      "max_font_size": 35.91,
+      "ocr_confidence": 0.9694
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        468,
+        981.75,
+        1329.75,
+        1102.5
+      ],
+      "text": "Out of the bathtub.",
+      "width": 861.75,
+      "height": 120.75,
+      "unit": "ocr-line",
+      "max_font_size": 33.81,
+      "ocr_confidence": 0.9772
+    }
+  ]
+}

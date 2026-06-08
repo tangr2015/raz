@@ -1,0 +1,174 @@
+{
+  "source_pdf": "Play_Ball_.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 1,
+      "index": 0,
+      "bbox": [
+        205.5,
+        215.25,
+        1003.5,
+        467.25
+      ],
+      "text": "Play Ball!",
+      "width": 798,
+      "height": 252,
+      "unit": "ocr-line",
+      "max_font_size": 70.56,
+      "ocr_confidence": 0.9976
+    },
+    {
+      "page": 2,
+      "index": 0,
+      "bbox": [
+        195,
+        78,
+        1020.75,
+        348
+      ],
+      "text": "Play Ball!",
+      "width": 825.75,
+      "height": 270,
+      "unit": "ocr-line",
+      "max_font_size": 75.6,
+      "ocr_confidence": 0.9976
+    },
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        139.5,
+        1611,
+        720.75,
+        1717.5
+      ],
+      "text": "A beach ball.",
+      "width": 581.25,
+      "height": 106.5,
+      "unit": "ocr-line",
+      "max_font_size": 29.82,
+      "ocr_confidence": 0.9957
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        157.5,
+        1615.5,
+        625.5,
+        1713
+      ],
+      "text": "A baseball.",
+      "width": 468,
+      "height": 97.5,
+      "unit": "ocr-line",
+      "max_font_size": 27.3,
+      "ocr_confidence": 0.9916
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        138,
+        1610.25,
+        684.75,
+        1717.5
+      ],
+      "text": "A basketball.",
+      "width": 546.75,
+      "height": 107.25,
+      "unit": "ocr-line",
+      "max_font_size": 30.03,
+      "ocr_confidence": 0.9918
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        158.25,
+        1614.75,
+        591.75,
+        1713
+      ],
+      "text": "A football.",
+      "width": 433.5,
+      "height": 98.25,
+      "unit": "ocr-line",
+      "max_font_size": 27.51,
+      "ocr_confidence": 0.9525
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        140.25,
+        1612.5,
+        702,
+        1717.5
+      ],
+      "text": "A tennis ball.",
+      "width": 561.75,
+      "height": 105,
+      "unit": "ocr-line",
+      "max_font_size": 29.4,
+      "ocr_confidence": 0.9952
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        143.25,
+        1601.25,
+        661.5,
+        1743
+      ],
+      "text": "A golf ball.",
+      "width": 518.25,
+      "height": 141.75,
+      "unit": "ocr-line",
+      "max_font_size": 39.69,
+      "ocr_confidence": 0.9261
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        145.5,
+        1617.75,
+        719.25,
+        1712.25
+      ],
+      "text": "A s soccer ball.",
+      "width": 573.75,
+      "height": 94.5,
+      "unit": "ocr-line",
+      "max_font_size": 26.46,
+      "ocr_confidence": 0.9692
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        147.75,
+        1605,
+        666,
+        1732.5
+      ],
+      "text": "A volleyball.",
+      "width": 518.25,
+      "height": 127.5,
+      "unit": "ocr-line",
+      "max_font_size": 35.7,
+      "ocr_confidence": 0.9675
+    }
+  ]
+}

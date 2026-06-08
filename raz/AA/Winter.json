@@ -1,0 +1,142 @@
+{
+  "source_pdf": "Winter.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        145.5,
+        1615.5,
+        549,
+        1723.5
+      ],
+      "text": "The snow.",
+      "width": 403.5,
+      "height": 108,
+      "unit": "ocr-line",
+      "max_font_size": 30.24,
+      "ocr_confidence": 0.996
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        164.25,
+        1617.75,
+        753,
+        1719.75
+      ],
+      "text": "The ice skates.",
+      "width": 588.75,
+      "height": 102,
+      "unit": "ocr-line",
+      "max_font_size": 28.56,
+      "ocr_confidence": 0.9648
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        146.25,
+        1616.25,
+        513.75,
+        1718.25
+      ],
+      "text": "The sled.",
+      "width": 367.5,
+      "height": 102,
+      "unit": "ocr-line",
+      "max_font_size": 28.56,
+      "ocr_confidence": 0.9961
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        158.25,
+        1613.25,
+        727.5,
+        1732.5
+      ],
+      "text": "The snowman.",
+      "width": 569.25,
+      "height": 119.25,
+      "unit": "ocr-line",
+      "max_font_size": 33.39,
+      "ocr_confidence": 0.9982
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        145.5,
+        1615.5,
+        630.75,
+        1725
+      ],
+      "text": "The mittens.",
+      "width": 485.25,
+      "height": 109.5,
+      "unit": "ocr-line",
+      "max_font_size": 30.66,
+      "ocr_confidence": 0.9977
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        158.25,
+        1614.75,
+        555.75,
+        1724.25
+      ],
+      "text": "The coat.",
+      "width": 397.5,
+      "height": 109.5,
+      "unit": "ocr-line",
+      "max_font_size": 30.66,
+      "ocr_confidence": 0.9994
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        147.75,
+        1618.5,
+        490.5,
+        1715.25
+      ],
+      "text": "The fire.",
+      "width": 342.75,
+      "height": 96.75,
+      "unit": "ocr-line",
+      "max_font_size": 27.09,
+      "ocr_confidence": 0.9993
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        155.25,
+        1607.25,
+        616.5,
+        1731
+      ],
+      "text": "The winter.",
+      "width": 461.25,
+      "height": 123.75,
+      "unit": "ocr-line",
+      "max_font_size": 34.65,
+      "ocr_confidence": 0.9947
+    }
+  ]
+}

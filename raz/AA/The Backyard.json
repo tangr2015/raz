@@ -1,0 +1,142 @@
+{
+  "source_pdf": "The_Backyard.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        144.75,
+        1609.5,
+        576,
+        1721.25
+      ],
+      "text": "The fence.",
+      "width": 431.25,
+      "height": 111.75,
+      "unit": "ocr-line",
+      "max_font_size": 31.29,
+      "ocr_confidence": 0.9902
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        161.25,
+        1608.75,
+        522,
+        1743
+      ],
+      "text": "The dog.",
+      "width": 360.75,
+      "height": 134.25,
+      "unit": "ocr-line",
+      "max_font_size": 37.59,
+      "ocr_confidence": 0.9966
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        137.25,
+        1596,
+        570.75,
+        1740
+      ],
+      "text": "The swing.",
+      "width": 433.5,
+      "height": 144,
+      "unit": "ocr-line",
+      "max_font_size": 40.32,
+      "ocr_confidence": 0.999
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        162,
+        1611,
+        522,
+        1718.25
+      ],
+      "text": "The ball.",
+      "width": 360,
+      "height": 107.25,
+      "unit": "ocr-line",
+      "max_font_size": 30.03,
+      "ocr_confidence": 0.918
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        146.25,
+        1607.25,
+        627,
+        1719.75
+      ],
+      "text": "The flowers.",
+      "width": 480.75,
+      "height": 112.5,
+      "unit": "ocr-line",
+      "max_font_size": 31.5,
+      "ocr_confidence": 0.9939
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        159.75,
+        1608,
+        534,
+        1726.5
+      ],
+      "text": "The tree.",
+      "width": 374.25,
+      "height": 118.5,
+      "unit": "ocr-line",
+      "max_font_size": 33.18,
+      "ocr_confidence": 0.9904
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        147,
+        1611.75,
+        530.25,
+        1721.25
+      ],
+      "text": "The hose.",
+      "width": 383.25,
+      "height": 109.5,
+      "unit": "ocr-line",
+      "max_font_size": 30.66,
+      "ocr_confidence": 0.953
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        156,
+        1605,
+        726.75,
+        1731.75
+      ],
+      "text": "The backyard.",
+      "width": 570.75,
+      "height": 126.75,
+      "unit": "ocr-line",
+      "max_font_size": 35.49,
+      "ocr_confidence": 0.9635
+    }
+  ]
+}

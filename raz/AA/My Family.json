@@ -1,0 +1,142 @@
+{
+  "source_pdf": "My_Family.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        354.75,
+        1605,
+        871.5,
+        1743
+      ],
+      "text": "My mother.",
+      "width": 516.75,
+      "height": 138,
+      "unit": "ocr-line",
+      "max_font_size": 38.64,
+      "ocr_confidence": 0.9979
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        399,
+        1611,
+        852,
+        1728.75
+      ],
+      "text": "My father.",
+      "width": 453,
+      "height": 117.75,
+      "unit": "ocr-line",
+      "max_font_size": 32.97,
+      "ocr_confidence": 0.9809
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        345,
+        1602.75,
+        874.5,
+        1743.75
+      ],
+      "text": "My brother.",
+      "width": 529.5,
+      "height": 141,
+      "unit": "ocr-line",
+      "max_font_size": 39.48,
+      "ocr_confidence": 0.9934
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        414.75,
+        1608,
+        830.25,
+        1731.75
+      ],
+      "text": "My sister.",
+      "width": 415.5,
+      "height": 123.75,
+      "unit": "ocr-line",
+      "max_font_size": 34.65,
+      "ocr_confidence": 0.9714
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        265.5,
+        1604.25,
+        962.25,
+        1736.25
+      ],
+      "text": "My grandfather.",
+      "width": 696.75,
+      "height": 132,
+      "unit": "ocr-line",
+      "max_font_size": 36.96,
+      "ocr_confidence": 0.9995
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        255,
+        1605,
+        999,
+        1743
+      ],
+      "text": "My grandmother.",
+      "width": 744,
+      "height": 138,
+      "unit": "ocr-line",
+      "max_font_size": 38.64,
+      "ocr_confidence": 0.9875
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        525.75,
+        1612.5,
+        696.75,
+        1716.75
+      ],
+      "text": "Me.",
+      "width": 171,
+      "height": 104.25,
+      "unit": "ocr-line",
+      "max_font_size": 29.19,
+      "ocr_confidence": 0.9997
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        209.25,
+        1605.75,
+        1036.5,
+        1736.25
+      ],
+      "text": "My family and me.",
+      "width": 827.25,
+      "height": 130.5,
+      "unit": "ocr-line",
+      "max_font_size": 36.54,
+      "ocr_confidence": 0.9776
+    }
+  ]
+}

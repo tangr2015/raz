@@ -1,0 +1,142 @@
+{
+  "source_pdf": "pets.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        426,
+        1609.5,
+        795.75,
+        1719
+      ],
+      "text": "The cat.",
+      "width": 369.75,
+      "height": 109.5,
+      "unit": "ocr-line",
+      "max_font_size": 30.66,
+      "ocr_confidence": 0.9986
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        428.25,
+        1605.75,
+        833.25,
+        1743
+      ],
+      "text": "The dog.",
+      "width": 405,
+      "height": 137.25,
+      "unit": "ocr-line",
+      "max_font_size": 38.43,
+      "ocr_confidence": 0.9994
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        359.25,
+        1596.75,
+        855.75,
+        1742.25
+      ],
+      "text": "The bunny.",
+      "width": 496.5,
+      "height": 145.5,
+      "unit": "ocr-line",
+      "max_font_size": 40.74,
+      "ocr_confidence": 0.9976
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        424.5,
+        1608,
+        828.75,
+        1719
+      ],
+      "text": "The bird.",
+      "width": 404.25,
+      "height": 111,
+      "unit": "ocr-line",
+      "max_font_size": 31.08,
+      "ocr_confidence": 0.9872
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        325.5,
+        1599.75,
+        892.5,
+        1741.5
+      ],
+      "text": "The goldfish.",
+      "width": 567,
+      "height": 141.75,
+      "unit": "ocr-line",
+      "max_font_size": 39.69,
+      "ocr_confidence": 0.9327
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        384,
+        1613.25,
+        869.25,
+        1716
+      ],
+      "text": "The mouse.",
+      "width": 485.25,
+      "height": 102.75,
+      "unit": "ocr-line",
+      "max_font_size": 28.77,
+      "ocr_confidence": 0.9998
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        391.5,
+        1608,
+        834.75,
+        1719.75
+      ],
+      "text": "The turtle.",
+      "width": 443.25,
+      "height": 111.75,
+      "unit": "ocr-line",
+      "max_font_size": 31.29,
+      "ocr_confidence": 0.9803
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        350.25,
+        1608,
+        903,
+        1721.25
+      ],
+      "text": "The hamster.",
+      "width": 552.75,
+      "height": 113.25,
+      "unit": "ocr-line",
+      "max_font_size": 31.71,
+      "ocr_confidence": 0.9994
+    }
+  ]
+}

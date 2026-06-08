@@ -1,0 +1,94 @@
+{
+  "source_pdf": "Colorful_Eggs.pdf",
+  "pages": 6,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 2,
+      "index": 0,
+      "bbox": [
+        61.5,
+        688.5,
+        265.5,
+        744.75
+      ],
+      "text": "A red egg.",
+      "width": 204,
+      "height": 56.25,
+      "unit": "ocr-line",
+      "max_font_size": 15.75,
+      "ocr_confidence": 0.9425
+    },
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        68.25,
+        691.5,
+        375,
+        744.75
+      ],
+      "text": "A purple egg.",
+      "width": 306.75,
+      "height": 53.25,
+      "unit": "ocr-line",
+      "max_font_size": 14.91,
+      "ocr_confidence": 0.9636
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        71.25,
+        694.5,
+        357.75,
+        743.25
+      ],
+      "text": "A green egg.",
+      "width": 286.5,
+      "height": 48.75,
+      "unit": "ocr-line",
+      "max_font_size": 13.65,
+      "ocr_confidence": 0.7712
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        62.25,
+        692.25,
+        330.75,
+        743.25
+      ],
+      "text": "A blue egg.",
+      "width": 268.5,
+      "height": 51,
+      "unit": "ocr-line",
+      "max_font_size": 14.28,
+      "ocr_confidence": 0.7895
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        69,
+        689.25,
+        397.5,
+        744.75
+      ],
+      "text": "A colorful egg.",
+      "width": 328.5,
+      "height": 55.5,
+      "unit": "ocr-line",
+      "max_font_size": 15.54,
+      "ocr_confidence": 0.8205
+    }
+  ]
+}

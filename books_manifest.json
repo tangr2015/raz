@@ -27,7 +27,400 @@
     {
       "id": "raz/AA",
       "name": "AA",
-      "books": []
+      "books": [
+        {
+          "id": "The Supermarket",
+          "title": "The Supermarket",
+          "pdfAsset": "raz/AA/The Supermarket.pdf",
+          "jsonAsset": "raz/AA/The Supermarket.json",
+          "pageCount": 11,
+          "blockCount": 9
+        },
+        {
+          "id": "The School",
+          "title": "The School",
+          "pdfAsset": "raz/AA/The School.pdf",
+          "jsonAsset": "raz/AA/The School.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Summer",
+          "title": "Summer",
+          "pdfAsset": "raz/AA/Summer.pdf",
+          "jsonAsset": "raz/AA/Summer.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "On",
+          "title": "On",
+          "pdfAsset": "raz/AA/On.pdf",
+          "jsonAsset": "raz/AA/On.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Little",
+          "title": "Little",
+          "pdfAsset": "raz/AA/Little.pdf",
+          "jsonAsset": "raz/AA/Little.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Summer Picnics",
+          "title": "Summer Picnics",
+          "pdfAsset": "raz/AA/Summer Picnics.pdf",
+          "jsonAsset": "raz/AA/Summer Picnics.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Farm Animals",
+          "title": "Farm Animals",
+          "pdfAsset": "raz/AA/Farm Animals.pdf",
+          "jsonAsset": "raz/AA/Farm Animals.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "The Street",
+          "title": "The Street",
+          "pdfAsset": "raz/AA/The Street.pdf",
+          "jsonAsset": "raz/AA/The Street.json",
+          "pageCount": 9,
+          "blockCount": 8
+        },
+        {
+          "id": "The Trip",
+          "title": "The Trip",
+          "pdfAsset": "raz/AA/The Trip.pdf",
+          "jsonAsset": "raz/AA/The Trip.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Toys",
+          "title": "Toys",
+          "pdfAsset": "raz/AA/Toys.pdf",
+          "jsonAsset": "raz/AA/Toys.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "One Insect",
+          "title": "One Insect",
+          "pdfAsset": "raz/AA/One Insect.pdf",
+          "jsonAsset": "raz/AA/One Insect.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Over",
+          "title": "Over",
+          "pdfAsset": "raz/AA/Over.pdf",
+          "jsonAsset": "raz/AA/Over.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Three",
+          "title": "Three",
+          "pdfAsset": "raz/AA/Three.pdf",
+          "jsonAsset": "raz/AA/Three.json",
+          "pageCount": 9,
+          "blockCount": 8
+        },
+        {
+          "id": "The Plant",
+          "title": "The Plant",
+          "pdfAsset": "raz/AA/The Plant.pdf",
+          "jsonAsset": "raz/AA/The Plant.json",
+          "pageCount": 11,
+          "blockCount": 9
+        },
+        {
+          "id": "It is Fall",
+          "title": "It is Fall",
+          "pdfAsset": "raz/AA/It is Fall.pdf",
+          "jsonAsset": "raz/AA/It is Fall.json",
+          "pageCount": 11,
+          "blockCount": 9
+        },
+        {
+          "id": "Show Some Love",
+          "title": "Show Some Love",
+          "pdfAsset": "raz/AA/Show Some Love.pdf",
+          "jsonAsset": "raz/AA/Show Some Love.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "My Gift for Mom",
+          "title": "My Gift for Mom",
+          "pdfAsset": "raz/AA/My Gift for Mom.pdf",
+          "jsonAsset": "raz/AA/My Gift for Mom.json",
+          "pageCount": 9,
+          "blockCount": 8
+        },
+        {
+          "id": "Out",
+          "title": "Out",
+          "pdfAsset": "raz/AA/Out.pdf",
+          "jsonAsset": "raz/AA/Out.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Jump Over",
+          "title": "Jump Over",
+          "pdfAsset": "raz/AA/Jump Over.pdf",
+          "jsonAsset": "raz/AA/Jump Over.json",
+          "pageCount": 11,
+          "blockCount": 9
+        },
+        {
+          "id": "Counting Letters",
+          "title": "Counting Letters",
+          "pdfAsset": "raz/AA/Counting Letters.pdf",
+          "jsonAsset": "raz/AA/Counting Letters.json",
+          "pageCount": 11,
+          "blockCount": 9
+        },
+        {
+          "id": "In",
+          "title": "In",
+          "pdfAsset": "raz/AA/In.pdf",
+          "jsonAsset": "raz/AA/In.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Lunch at School",
+          "title": "Lunch at School",
+          "pdfAsset": "raz/AA/Lunch at School.pdf",
+          "jsonAsset": "raz/AA/Lunch at School.json",
+          "pageCount": 9,
+          "blockCount": 8
+        },
+        {
+          "id": "Go,Go,Go",
+          "title": "Go,Go,Go",
+          "pdfAsset": "raz/AA/Go,Go,Go.pdf",
+          "jsonAsset": "raz/AA/Go,Go,Go.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Spring",
+          "title": "Spring",
+          "pdfAsset": "raz/AA/Spring.pdf",
+          "jsonAsset": "raz/AA/Spring.json",
+          "pageCount": 11,
+          "blockCount": 9
+        },
+        {
+          "id": "Four",
+          "title": "Four",
+          "pdfAsset": "raz/AA/Four.pdf",
+          "jsonAsset": "raz/AA/Four.json",
+          "pageCount": 9,
+          "blockCount": 8
+        },
+        {
+          "id": "Pasta!",
+          "title": "Pasta!",
+          "pdfAsset": "raz/AA/Pasta!.pdf",
+          "jsonAsset": "raz/AA/Pasta!.json",
+          "pageCount": 11,
+          "blockCount": 10
+        },
+        {
+          "id": "Big",
+          "title": "Big",
+          "pdfAsset": "raz/AA/Big.pdf",
+          "jsonAsset": "raz/AA/Big.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Too Many Sweets",
+          "title": "Too Many Sweets",
+          "pdfAsset": "raz/AA/Too Many Sweets.pdf",
+          "jsonAsset": "raz/AA/Too Many Sweets.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Winter",
+          "title": "Winter",
+          "pdfAsset": "raz/AA/Winter.pdf",
+          "jsonAsset": "raz/AA/Winter.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Two",
+          "title": "Two",
+          "pdfAsset": "raz/AA/Two.pdf",
+          "jsonAsset": "raz/AA/Two.json",
+          "pageCount": 9,
+          "blockCount": 8
+        },
+        {
+          "id": "The Backyard",
+          "title": "The Backyard",
+          "pdfAsset": "raz/AA/The Backyard.pdf",
+          "jsonAsset": "raz/AA/The Backyard.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Counting Bugs",
+          "title": "Counting Bugs",
+          "pdfAsset": "raz/AA/Counting Bugs.pdf",
+          "jsonAsset": "raz/AA/Counting Bugs.json",
+          "pageCount": 11,
+          "blockCount": 9
+        },
+        {
+          "id": "My Family",
+          "title": "My Family",
+          "pdfAsset": "raz/AA/My Family.pdf",
+          "jsonAsset": "raz/AA/My Family.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "We Build",
+          "title": "We Build",
+          "pdfAsset": "raz/AA/We Build.pdf",
+          "jsonAsset": "raz/AA/We Build.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "The Book",
+          "title": "The Book",
+          "pdfAsset": "raz/AA/The Book.pdf",
+          "jsonAsset": "raz/AA/The Book.json",
+          "pageCount": 11,
+          "blockCount": 9
+        },
+        {
+          "id": "Colorful Eggs",
+          "title": "Colorful Eggs",
+          "pdfAsset": "raz/AA/Colorful Eggs.pdf",
+          "jsonAsset": "raz/AA/Colorful Eggs.json",
+          "pageCount": 6,
+          "blockCount": 5
+        },
+        {
+          "id": "The Garden",
+          "title": "The Garden",
+          "pdfAsset": "raz/AA/The Garden.pdf",
+          "jsonAsset": "raz/AA/The Garden.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Water",
+          "title": "Water",
+          "pdfAsset": "raz/AA/Water.pdf",
+          "jsonAsset": "raz/AA/Water.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "the Coast",
+          "title": "the Coast",
+          "pdfAsset": "raz/AA/the Coast.pdf",
+          "jsonAsset": "raz/AA/the Coast.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "One",
+          "title": "One",
+          "pdfAsset": "raz/AA/One.pdf",
+          "jsonAsset": "raz/AA/One.json",
+          "pageCount": 9,
+          "blockCount": 8
+        },
+        {
+          "id": "The Fort",
+          "title": "The Fort",
+          "pdfAsset": "raz/AA/The Fort.pdf",
+          "jsonAsset": "raz/AA/The Fort.json",
+          "pageCount": 9,
+          "blockCount": 8
+        },
+        {
+          "id": "pets",
+          "title": "pets",
+          "pdfAsset": "raz/AA/pets.pdf",
+          "jsonAsset": "raz/AA/pets.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "the city",
+          "title": "the city",
+          "pdfAsset": "raz/AA/the city.pdf",
+          "jsonAsset": "raz/AA/the city.json",
+          "pageCount": 11,
+          "blockCount": 12
+        },
+        {
+          "id": "My School Bus",
+          "title": "My School Bus",
+          "pdfAsset": "raz/AA/My School Bus.pdf",
+          "jsonAsset": "raz/AA/My School Bus.json",
+          "pageCount": 9,
+          "blockCount": 8
+        },
+        {
+          "id": "Play Ball!",
+          "title": "Play Ball!",
+          "pdfAsset": "raz/AA/Play Ball!.pdf",
+          "jsonAsset": "raz/AA/Play Ball!.json",
+          "pageCount": 11,
+          "blockCount": 10
+        },
+        {
+          "id": "The Classroom",
+          "title": "The Classroom",
+          "pdfAsset": "raz/AA/The Classroom.pdf",
+          "jsonAsset": "raz/AA/The Classroom.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Under",
+          "title": "Under",
+          "pdfAsset": "raz/AA/Under.pdf",
+          "jsonAsset": "raz/AA/Under.json",
+          "pageCount": 11,
+          "blockCount": 8
+        },
+        {
+          "id": "Fido Gets Dressed",
+          "title": "Fido Gets Dressed",
+          "pdfAsset": "raz/AA/Fido Gets Dressed.pdf",
+          "jsonAsset": "raz/AA/Fido Gets Dressed.json",
+          "pageCount": 13,
+          "blockCount": 10
+        },
+        {
+          "id": "The Ocean",
+          "title": "The Ocean",
+          "pdfAsset": "raz/AA/The Ocean.pdf",
+          "jsonAsset": "raz/AA/The Ocean.json",
+          "pageCount": 11,
+          "blockCount": 8
+        }
+      ]
     }
   ]
 }

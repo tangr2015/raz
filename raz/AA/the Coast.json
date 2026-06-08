@@ -1,0 +1,142 @@
+{
+  "source_pdf": "the_Coast.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        149.25,
+        1616.25,
+        573.75,
+        1718.25
+      ],
+      "text": "The ocean.",
+      "width": 424.5,
+      "height": 102,
+      "unit": "ocr-line",
+      "max_font_size": 28.56,
+      "ocr_confidence": 0.9993
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        158.25,
+        1608,
+        617.25,
+        1732.5
+      ],
+      "text": "The waves.",
+      "width": 459,
+      "height": 124.5,
+      "unit": "ocr-line",
+      "max_font_size": 34.86,
+      "ocr_confidence": 0.9975
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        143.25,
+        1608,
+        594.75,
+        1719.75
+      ],
+      "text": "The beach.",
+      "width": 451.5,
+      "height": 111.75,
+      "unit": "ocr-line",
+      "max_font_size": 31.29,
+      "ocr_confidence": 0.9978
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        160.5,
+        1609.5,
+        568.5,
+        1722
+      ],
+      "text": "The rocks.",
+      "width": 408,
+      "height": 112.5,
+      "unit": "ocr-line",
+      "max_font_size": 31.5,
+      "ocr_confidence": 0.9832
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        144,
+        1608.75,
+        497.25,
+        1719.75
+      ],
+      "text": "The cliff.",
+      "width": 353.25,
+      "height": 111,
+      "unit": "ocr-line",
+      "max_font_size": 31.08,
+      "ocr_confidence": 0.9735
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        162.75,
+        1611.75,
+        563.25,
+        1719
+      ],
+      "text": "The birds.",
+      "width": 400.5,
+      "height": 107.25,
+      "unit": "ocr-line",
+      "max_font_size": 30.03,
+      "ocr_confidence": 0.9571
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        150,
+        1612.5,
+        738.75,
+        1738.5
+      ],
+      "text": "The I lighthouse.",
+      "width": 588.75,
+      "height": 126,
+      "unit": "ocr-line",
+      "max_font_size": 35.28,
+      "ocr_confidence": 0.9671
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        160.5,
+        1611.75,
+        571.5,
+        1722
+      ],
+      "text": "The coast.",
+      "width": 411,
+      "height": 110.25,
+      "unit": "ocr-line",
+      "max_font_size": 30.87,
+      "ocr_confidence": 0.9831
+    }
+  ]
+}

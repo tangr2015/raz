@@ -1,0 +1,142 @@
+{
+  "source_pdf": "The_Street.pdf",
+  "pages": 9,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 2,
+      "index": 0,
+      "bbox": [
+        63,
+        682.5,
+        270,
+        739.5
+      ],
+      "text": "The gate.",
+      "width": 207,
+      "height": 57,
+      "unit": "ocr-line",
+      "max_font_size": 15.96,
+      "ocr_confidence": 0.6876
+    },
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        70.5,
+        690,
+        315,
+        753
+      ],
+      "text": "The mailbox.",
+      "width": 244.5,
+      "height": 63,
+      "unit": "ocr-line",
+      "max_font_size": 17.64,
+      "ocr_confidence": 0.6617
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        64.5,
+        681.75,
+        306.75,
+        746.25
+      ],
+      "text": "The sidewalk.",
+      "width": 242.25,
+      "height": 64.5,
+      "unit": "ocr-line",
+      "max_font_size": 18.06,
+      "ocr_confidence": 0.6462
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        70.5,
+        693.75,
+        282.75,
+        736.5
+      ],
+      "text": "The fence.",
+      "width": 212.25,
+      "height": 42.75,
+      "unit": "ocr-line",
+      "max_font_size": 11.34,
+      "ocr_confidence": 0.7728
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        66,
+        689.25,
+        301.5,
+        750.75
+      ],
+      "text": "The flowers.",
+      "width": 235.5,
+      "height": 61.5,
+      "unit": "ocr-line",
+      "max_font_size": 17.22,
+      "ocr_confidence": 0.6164
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        71.25,
+        699,
+        189,
+        734.25
+      ],
+      "text": "The bike.",
+      "width": 117.75,
+      "height": 35.25,
+      "unit": "ocr-line",
+      "max_font_size": 9.87,
+      "ocr_confidence": 0.9998
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        66,
+        696.75,
+        271.5,
+        736.5
+      ],
+      "text": "The friend.",
+      "width": 205.5,
+      "height": 39.75,
+      "unit": "ocr-line",
+      "max_font_size": 11.13,
+      "ocr_confidence": 0.9766
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        71.25,
+        699,
+        211.5,
+        734.25
+      ],
+      "text": "The street.",
+      "width": 140.25,
+      "height": 35.25,
+      "unit": "ocr-line",
+      "max_font_size": 9.87,
+      "ocr_confidence": 0.995
+    }
+  ]
+}

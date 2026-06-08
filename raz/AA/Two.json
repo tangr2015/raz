@@ -1,0 +1,142 @@
+{
+  "source_pdf": "Two.pdf",
+  "pages": 9,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 2,
+      "index": 0,
+      "bbox": [
+        64.5,
+        684,
+        324.75,
+        747.75
+      ],
+      "text": "Two bees.",
+      "width": 260.25,
+      "height": 63.75,
+      "unit": "ocr-line",
+      "max_font_size": 17.85,
+      "ocr_confidence": 0.7319
+    },
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        69.75,
+        688.5,
+        282.75,
+        747
+      ],
+      "text": "Two fish.",
+      "width": 213,
+      "height": 58.5,
+      "unit": "ocr-line",
+      "max_font_size": 16.38,
+      "ocr_confidence": 0.7077
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        66.75,
+        696.75,
+        232.5,
+        734.25
+      ],
+      "text": "Two birds.",
+      "width": 165.75,
+      "height": 37.5,
+      "unit": "ocr-line",
+      "max_font_size": 10.5,
+      "ocr_confidence": 0.9862
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        71.25,
+        694.5,
+        234,
+        737.25
+      ],
+      "text": "Two cats.",
+      "width": 162.75,
+      "height": 42.75,
+      "unit": "ocr-line",
+      "max_font_size": 11.97,
+      "ocr_confidence": 0.9922
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        63.75,
+        690.75,
+        236.25,
+        743.25
+      ],
+      "text": "Two dogs.",
+      "width": 172.5,
+      "height": 52.5,
+      "unit": "ocr-line",
+      "max_font_size": 14.7,
+      "ocr_confidence": 0.9993
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        72,
+        693.75,
+        302.25,
+        743.25
+      ],
+      "text": "Two cows.",
+      "width": 230.25,
+      "height": 49.5,
+      "unit": "ocr-line",
+      "max_font_size": 13.86,
+      "ocr_confidence": 0.7844
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        65.25,
+        691.5,
+        317.25,
+        737.25
+      ],
+      "text": "Two horses.",
+      "width": 252,
+      "height": 45.75,
+      "unit": "ocr-line",
+      "max_font_size": 12.81,
+      "ocr_confidence": 0.871
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        71.25,
+        690,
+        287.25,
+        741
+      ],
+      "text": "Two kids.",
+      "width": 216,
+      "height": 51,
+      "unit": "ocr-line",
+      "max_font_size": 14.28,
+      "ocr_confidence": 0.869
+    }
+  ]
+}

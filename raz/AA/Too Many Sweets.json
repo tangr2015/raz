@@ -1,0 +1,142 @@
+{
+  "source_pdf": "Too_Many_Sweets.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        135.75,
+        1612.5,
+        517.5,
+        1736.25
+      ],
+      "text": "My cake.",
+      "width": 381.75,
+      "height": 123.75,
+      "unit": "ocr-line",
+      "max_font_size": 34.65,
+      "ocr_confidence": 0.9847
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        147,
+        1608,
+        606,
+        1743
+      ],
+      "text": "My cookie.",
+      "width": 459,
+      "height": 135,
+      "unit": "ocr-line",
+      "max_font_size": 37.8,
+      "ocr_confidence": 0.9952
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        132.75,
+        1608,
+        661.5,
+        1743
+      ],
+      "text": "My cupcake.",
+      "width": 528.75,
+      "height": 135,
+      "unit": "ocr-line",
+      "max_font_size": 37.8,
+      "ocr_confidence": 0.9928
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        150.75,
+        1612.5,
+        735.75,
+        1738.5
+      ],
+      "text": "My ice cream.",
+      "width": 585,
+      "height": 126,
+      "unit": "ocr-line",
+      "max_font_size": 35.28,
+      "ocr_confidence": 0.9981
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        135.75,
+        1612.5,
+        459,
+        1740.75
+      ],
+      "text": "My pie.",
+      "width": 323.25,
+      "height": 128.25,
+      "unit": "ocr-line",
+      "max_font_size": 35.91,
+      "ocr_confidence": 0.9693
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        147.75,
+        1608.75,
+        661.5,
+        1740.75
+      ],
+      "text": "My brownie.",
+      "width": 513.75,
+      "height": 132,
+      "unit": "ocr-line",
+      "max_font_size": 36.96,
+      "ocr_confidence": 0.9552
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        137.25,
+        1612.5,
+        568.5,
+        1739.25
+      ],
+      "text": "My candy.",
+      "width": 431.25,
+      "height": 126.75,
+      "unit": "ocr-line",
+      "max_font_size": 35.49,
+      "ocr_confidence": 0.9538
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        153.75,
+        1615.5,
+        522,
+        1733.25
+      ],
+      "text": "My belly.",
+      "width": 368.25,
+      "height": 117.75,
+      "unit": "ocr-line",
+      "max_font_size": 32.97,
+      "ocr_confidence": 0.9733
+    }
+  ]
+}

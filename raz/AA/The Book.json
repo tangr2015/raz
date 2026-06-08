@@ -1,0 +1,158 @@
+{
+  "source_pdf": "The_Book.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        152.25,
+        1619.25,
+        789.75,
+        1715.25
+      ],
+      "text": "The front cover.",
+      "width": 637.5,
+      "height": 96,
+      "unit": "ocr-line",
+      "max_font_size": 26.88,
+      "ocr_confidence": 0.9994
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        168,
+        1623,
+        803.25,
+        1709.25
+      ],
+      "text": "The back cover.",
+      "width": 635.25,
+      "height": 86.25,
+      "unit": "ocr-line",
+      "max_font_size": 24.15,
+      "ocr_confidence": 0.9996
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        155.25,
+        1623.75,
+        491.25,
+        1709.25
+      ],
+      "text": "The title.",
+      "width": 336,
+      "height": 85.5,
+      "unit": "ocr-line",
+      "max_font_size": 23.94,
+      "ocr_confidence": 0.9996
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        172.5,
+        1234.5,
+        840,
+        1329
+      ],
+      "text": "# # run.",
+      "width": 667.5,
+      "height": 94.5,
+      "unit": "ocr-line",
+      "max_font_size": 21.63,
+      "ocr_confidence": 0.8454
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "bbox": [
+        166.5,
+        1621.5,
+        592.5,
+        1729.5
+      ],
+      "text": "The pages.",
+      "width": 426,
+      "height": 108,
+      "unit": "ocr-line",
+      "max_font_size": 26.25,
+      "ocr_confidence": 0.9997
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        150,
+        1618.5,
+        579.75,
+        1717.5
+      ],
+      "text": "The words.",
+      "width": 429.75,
+      "height": 99,
+      "unit": "ocr-line",
+      "max_font_size": 27.72,
+      "ocr_confidence": 0.9509
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        163.5,
+        1618.5,
+        605.25,
+        1722.75
+      ],
+      "text": "The letters.",
+      "width": 441.75,
+      "height": 104.25,
+      "unit": "ocr-line",
+      "max_font_size": 29.19,
+      "ocr_confidence": 0.974
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        150.75,
+        1617.75,
+        872.25,
+        1731
+      ],
+      "text": "The page number.",
+      "width": 721.5,
+      "height": 113.25,
+      "unit": "ocr-line",
+      "max_font_size": 28.56,
+      "ocr_confidence": 0.9996
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        166.5,
+        1623.75,
+        552.75,
+        1709.25
+      ],
+      "text": "The book.",
+      "width": 386.25,
+      "height": 85.5,
+      "unit": "ocr-line",
+      "max_font_size": 23.94,
+      "ocr_confidence": 0.9998
+    }
+  ]
+}
