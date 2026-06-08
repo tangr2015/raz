@@ -1,0 +1,158 @@
+{
+  "source_pdf": "The_Supermarket.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 1,
+      "index": 0,
+      "bbox": [
+        875.25,
+        512.25,
+        1049.25,
+        639
+      ],
+      "text": "SALE!",
+      "width": 174,
+      "height": 126.75,
+      "unit": "ocr-line",
+      "max_font_size": 35.49,
+      "ocr_confidence": 0.9973
+    },
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        147,
+        1617.75,
+        545.25,
+        1720.5
+      ],
+      "text": "The carts.",
+      "width": 398.25,
+      "height": 102.75,
+      "unit": "ocr-line",
+      "max_font_size": 28.77,
+      "ocr_confidence": 0.9993
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        160.5,
+        1615.5,
+        570,
+        1719
+      ],
+      "text": "The fruits.",
+      "width": 409.5,
+      "height": 103.5,
+      "unit": "ocr-line",
+      "max_font_size": 28.98,
+      "ocr_confidence": 0.9957
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        146.25,
+        1617.75,
+        764.25,
+        1731
+      ],
+      "text": "The vegetables.",
+      "width": 618,
+      "height": 113.25,
+      "unit": "ocr-line",
+      "max_font_size": 31.71,
+      "ocr_confidence": 0.9961
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        164.25,
+        1620,
+        597,
+        1713.75
+      ],
+      "text": "The bread.",
+      "width": 432.75,
+      "height": 93.75,
+      "unit": "ocr-line",
+      "max_font_size": 26.25,
+      "ocr_confidence": 0.9996
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        150.75,
+        1620.75,
+        597,
+        1715.25
+      ],
+      "text": "The cereal.",
+      "width": 446.25,
+      "height": 94.5,
+      "unit": "ocr-line",
+      "max_font_size": 26.46,
+      "ocr_confidence": 0.999
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        165,
+        1621.5,
+        558,
+        1712.25
+      ],
+      "text": "The meat.",
+      "width": 393,
+      "height": 90.75,
+      "unit": "ocr-line",
+      "max_font_size": 25.41,
+      "ocr_confidence": 0.9998
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        141.75,
+        1610.25,
+        539.25,
+        1740.75
+      ],
+      "text": "The eggs.",
+      "width": 397.5,
+      "height": 130.5,
+      "unit": "ocr-line",
+      "max_font_size": 36.54,
+      "ocr_confidence": 0.9977
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        165,
+        1620.75,
+        709.5,
+        1713.75
+      ],
+      "text": "The checkout.",
+      "width": 544.5,
+      "height": 93,
+      "unit": "ocr-line",
+      "max_font_size": 25.62,
+      "ocr_confidence": 0.9997
+    }
+  ]
+}
