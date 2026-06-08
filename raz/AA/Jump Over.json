@@ -1,0 +1,158 @@
+{
+  "source_pdf": "Jump_Over.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        138,
+        1602,
+        963.75,
+        1743
+      ],
+      "text": "The cat jumps over.",
+      "width": 825.75,
+      "height": 141,
+      "unit": "ocr-line",
+      "max_font_size": 39.48,
+      "ocr_confidence": 0.9995
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        150.75,
+        1599,
+        1032,
+        1757.25
+      ],
+      "text": "The dog jumps over.",
+      "width": 881.25,
+      "height": 158.25,
+      "unit": "ocr-line",
+      "max_font_size": 44.31,
+      "ocr_confidence": 0.9983
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        147,
+        1613.25,
+        1043.25,
+        1734
+      ],
+      "text": "The horse jumps over.",
+      "width": 896.25,
+      "height": 120.75,
+      "unit": "ocr-line",
+      "max_font_size": 32.97,
+      "ocr_confidence": 0.9994
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        153,
+        1602,
+        998.25,
+        1748.25
+      ],
+      "text": "The fox jumps over.",
+      "width": 845.25,
+      "height": 146.25,
+      "unit": "ocr-line",
+      "max_font_size": 40.95,
+      "ocr_confidence": 0.9913
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        147,
+        1612.5,
+        1027.5,
+        1737.75
+      ],
+      "text": "The deer jumps over.",
+      "width": 880.5,
+      "height": 125.25,
+      "unit": "ocr-line",
+      "max_font_size": 34.86,
+      "ocr_confidence": 0.9833
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        153.75,
+        1604.25,
+        1029.75,
+        1743
+      ],
+      "text": "The goat t jumps over.",
+      "width": 876,
+      "height": 138.75,
+      "unit": "ocr-line",
+      "max_font_size": 38.85,
+      "ocr_confidence": 0.9903
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        147.75,
+        1612.5,
+        964.5,
+        1737
+      ],
+      "text": "The girl jumps over.",
+      "width": 816.75,
+      "height": 124.5,
+      "unit": "ocr-line",
+      "max_font_size": 34.86,
+      "ocr_confidence": 0.9993
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        160.5,
+        1610.25,
+        1014,
+        1737
+      ],
+      "text": "The cow jumps over.",
+      "width": 853.5,
+      "height": 126.75,
+      "unit": "ocr-line",
+      "max_font_size": 33.81,
+      "ocr_confidence": 0.9899
+    },
+    {
+      "page": 11,
+      "index": 0,
+      "bbox": [
+        171.75,
+        1542.75,
+        565.5,
+        1577.25
+      ],
+      "text": "© Learning A-Z All rights reserved.",
+      "width": 393.75,
+      "height": 34.5,
+      "unit": "ocr-line",
+      "max_font_size": 9.66,
+      "ocr_confidence": 0.9716
+    }
+  ]
+}
