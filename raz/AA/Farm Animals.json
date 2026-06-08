@@ -1,0 +1,142 @@
+{
+  "source_pdf": "Farm_Animals.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        321,
+        1578.75,
+        753.75,
+        1754.25
+      ],
+      "text": "The dog.",
+      "width": 432.75,
+      "height": 175.5,
+      "unit": "ocr-line",
+      "max_font_size": 49.14,
+      "ocr_confidence": 0.9764
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        339,
+        1595.25,
+        732,
+        1753.5
+      ],
+      "text": "The pig.",
+      "width": 393,
+      "height": 158.25,
+      "unit": "ocr-line",
+      "max_font_size": 44.31,
+      "ocr_confidence": 0.9937
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        332.25,
+        1604.25,
+        869.25,
+        1727.25
+      ],
+      "text": "The chicken.",
+      "width": 537,
+      "height": 123,
+      "unit": "ocr-line",
+      "max_font_size": 34.44,
+      "ocr_confidence": 0.9934
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        353.25,
+        1606.5,
+        777.75,
+        1740.75
+      ],
+      "text": "The goat.",
+      "width": 424.5,
+      "height": 134.25,
+      "unit": "ocr-line",
+      "max_font_size": 37.59,
+      "ocr_confidence": 0.9992
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        330,
+        1604.25,
+        742.5,
+        1736.25
+      ],
+      "text": "The cow.",
+      "width": 412.5,
+      "height": 132,
+      "unit": "ocr-line",
+      "max_font_size": 36.96,
+      "ocr_confidence": 0.9916
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        351,
+        1608.75,
+        777,
+        1722
+      ],
+      "text": "The duck.",
+      "width": 426,
+      "height": 113.25,
+      "unit": "ocr-line",
+      "max_font_size": 31.71,
+      "ocr_confidence": 0.9995
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        329.25,
+        1597.5,
+        813.75,
+        1737.75
+      ],
+      "text": "The sheep.",
+      "width": 484.5,
+      "height": 140.25,
+      "unit": "ocr-line",
+      "max_font_size": 39.27,
+      "ocr_confidence": 0.9987
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        349.5,
+        1608.75,
+        891,
+        1719.75
+      ],
+      "text": "The animals.",
+      "width": 541.5,
+      "height": 111,
+      "unit": "ocr-line",
+      "max_font_size": 31.08,
+      "ocr_confidence": 0.9998
+    }
+  ]
+}
