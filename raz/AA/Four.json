@@ -1,0 +1,142 @@
+{
+  "source_pdf": "Four.pdf",
+  "pages": 9,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 2,
+      "index": 0,
+      "bbox": [
+        63.75,
+        696.75,
+        324,
+        734.25
+      ],
+      "text": "Four buses.",
+      "width": 260.25,
+      "height": 37.5,
+      "unit": "ocr-line",
+      "max_font_size": 10.08,
+      "ocr_confidence": 0.7556
+    },
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        69.75,
+        696,
+        294.75,
+        739.5
+      ],
+      "text": "Four wagons.",
+      "width": 225,
+      "height": 43.5,
+      "unit": "ocr-line",
+      "max_font_size": 12.18,
+      "ocr_confidence": 0.996
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        63.75,
+        698.25,
+        227.25,
+        733.5
+      ],
+      "text": "Four cars.",
+      "width": 163.5,
+      "height": 35.25,
+      "unit": "ocr-line",
+      "max_font_size": 9.87,
+      "ocr_confidence": 0.9999
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        70.5,
+        696.75,
+        253.5,
+        735
+      ],
+      "text": "Four carts.",
+      "width": 183,
+      "height": 38.25,
+      "unit": "ocr-line",
+      "max_font_size": 10.71,
+      "ocr_confidence": 0.9936
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        61.5,
+        690,
+        385.5,
+        741.75
+      ],
+      "text": "Four airplanes.",
+      "width": 324,
+      "height": 51.75,
+      "unit": "ocr-line",
+      "max_font_size": 14.49,
+      "ocr_confidence": 0.9371
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        71.25,
+        697.5,
+        261,
+        733.5
+      ],
+      "text": "Four boats.",
+      "width": 189.75,
+      "height": 36,
+      "unit": "ocr-line",
+      "max_font_size": 10.08,
+      "ocr_confidence": 0.9909
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        63,
+        693.75,
+        324.75,
+        735.75
+      ],
+      "text": "Four trucks.",
+      "width": 261.75,
+      "height": 42,
+      "unit": "ocr-line",
+      "max_font_size": 11.76,
+      "ocr_confidence": 0.8309
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        69.75,
+        696,
+        248.25,
+        735.75
+      ],
+      "text": "Four vans.",
+      "width": 178.5,
+      "height": 39.75,
+      "unit": "ocr-line",
+      "max_font_size": 11.13,
+      "ocr_confidence": 0.9991
+    }
+  ]
+}
