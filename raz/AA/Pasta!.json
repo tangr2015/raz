@@ -1,0 +1,174 @@
+{
+  "source_pdf": "Pasta_.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 1,
+      "index": 0,
+      "bbox": [
+        240.75,
+        250.5,
+        996.75,
+        534.75
+      ],
+      "text": "Pasta!",
+      "width": 756,
+      "height": 284.25,
+      "unit": "ocr-line",
+      "max_font_size": 79.59,
+      "ocr_confidence": 0.9762
+    },
+    {
+      "page": 2,
+      "index": 0,
+      "bbox": [
+        365.25,
+        135,
+        865.5,
+        357.75
+      ],
+      "text": "Pasta!",
+      "width": 500.25,
+      "height": 222.75,
+      "unit": "ocr-line",
+      "max_font_size": 62.37,
+      "ocr_confidence": 0.9986
+    },
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        136.5,
+        1614.75,
+        620.25,
+        1739.25
+      ],
+      "text": "Long pasta.",
+      "width": 483.75,
+      "height": 124.5,
+      "unit": "ocr-line",
+      "max_font_size": 34.86,
+      "ocr_confidence": 0.9744
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        159.75,
+        1615.5,
+        648.75,
+        1733.25
+      ],
+      "text": "Short pasta.",
+      "width": 489,
+      "height": 117.75,
+      "unit": "ocr-line",
+      "max_font_size": 32.97,
+      "ocr_confidence": 0.996
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        138.75,
+        1612.5,
+        579.75,
+        1734
+      ],
+      "text": "Red pasta.",
+      "width": 441,
+      "height": 121.5,
+      "unit": "ocr-line",
+      "max_font_size": 34.02,
+      "ocr_confidence": 0.9939
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        161.25,
+        1614.75,
+        687,
+        1737
+      ],
+      "text": "Green pasta.",
+      "width": 525.75,
+      "height": 122.25,
+      "unit": "ocr-line",
+      "max_font_size": 34.23,
+      "ocr_confidence": 0.9592
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        138.75,
+        1609.5,
+        631.5,
+        1737
+      ],
+      "text": "Wide pasta.",
+      "width": 492.75,
+      "height": 127.5,
+      "unit": "ocr-line",
+      "max_font_size": 35.7,
+      "ocr_confidence": 0.996
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        162,
+        1612.5,
+        594.75,
+        1732.5
+      ],
+      "text": "Thin pasta.",
+      "width": 432.75,
+      "height": 120,
+      "unit": "ocr-line",
+      "max_font_size": 33.6,
+      "ocr_confidence": 0.9898
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        147,
+        1611,
+        632.25,
+        1737.75
+      ],
+      "text": "Curly pasta.",
+      "width": 485.25,
+      "height": 126.75,
+      "unit": "ocr-line",
+      "max_font_size": 35.49,
+      "ocr_confidence": 0.9943
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        158.25,
+        1613.25,
+        713.25,
+        1734.75
+      ],
+      "text": "Yummy pasta!",
+      "width": 555,
+      "height": 121.5,
+      "unit": "ocr-line",
+      "max_font_size": 34.02,
+      "ocr_confidence": 0.9888
+    }
+  ]
+}
