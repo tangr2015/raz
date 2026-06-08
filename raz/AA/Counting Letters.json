@@ -1,0 +1,158 @@
+{
+  "source_pdf": "Counting_Letters.pdf",
+  "pages": 11,
+  "filter_mode": "primary-large-text",
+  "requested_filter_mode": "primary-large-text",
+  "effective_filter_mode": "primary-large-text",
+  "min_font_size": 24,
+  "ocr_mode": "auto",
+  "extraction_engine": "paddleocr",
+  "ocr_lang": "en",
+  "ocr_dpi": 96,
+  "blocks": [
+    {
+      "page": 1,
+      "index": 0,
+      "bbox": [
+        896.25,
+        324,
+        906,
+        333.75
+      ],
+      "text": ".",
+      "width": 9.75,
+      "height": 9.75,
+      "unit": "ocr-line",
+      "max_font_size": 2.73,
+      "ocr_confidence": 0.1437
+    },
+    {
+      "page": 3,
+      "index": 0,
+      "bbox": [
+        150,
+        1617.75,
+        590.25,
+        1720.5
+      ],
+      "text": "One letter.",
+      "width": 440.25,
+      "height": 102.75,
+      "unit": "ocr-line",
+      "max_font_size": 28.77,
+      "ocr_confidence": 0.9987
+    },
+    {
+      "page": 4,
+      "index": 0,
+      "bbox": [
+        165,
+        1619.25,
+        615,
+        1722.75
+      ],
+      "text": "Two letters.",
+      "width": 450,
+      "height": 103.5,
+      "unit": "ocr-line",
+      "max_font_size": 28.98,
+      "ocr_confidence": 0.9924
+    },
+    {
+      "page": 5,
+      "index": 0,
+      "bbox": [
+        153.75,
+        1623.75,
+        669,
+        1714.5
+      ],
+      "text": "Three letters.",
+      "width": 515.25,
+      "height": 90.75,
+      "unit": "ocr-line",
+      "max_font_size": 25.41,
+      "ocr_confidence": 0.9987
+    },
+    {
+      "page": 6,
+      "index": 0,
+      "bbox": [
+        163.5,
+        1623,
+        631.5,
+        1711.5
+      ],
+      "text": "Four letters.",
+      "width": 468,
+      "height": 88.5,
+      "unit": "ocr-line",
+      "max_font_size": 24.78,
+      "ocr_confidence": 0.9982
+    },
+    {
+      "page": 7,
+      "index": 0,
+      "bbox": [
+        150.75,
+        1625.25,
+        592.5,
+        1710.75
+      ],
+      "text": "Five letters.",
+      "width": 441.75,
+      "height": 85.5,
+      "unit": "ocr-line",
+      "max_font_size": 23.31,
+      "ocr_confidence": 0.9458
+    },
+    {
+      "page": 8,
+      "index": 0,
+      "bbox": [
+        161.25,
+        1616.25,
+        570,
+        1723.5
+      ],
+      "text": "Six letters.",
+      "width": 408.75,
+      "height": 107.25,
+      "unit": "ocr-line",
+      "max_font_size": 30.03,
+      "ocr_confidence": 0.9938
+    },
+    {
+      "page": 9,
+      "index": 0,
+      "bbox": [
+        152.25,
+        1624.5,
+        676.5,
+        1712.25
+      ],
+      "text": "Seven letters.",
+      "width": 524.25,
+      "height": 87.75,
+      "unit": "ocr-line",
+      "max_font_size": 24.57,
+      "ocr_confidence": 0.9994
+    },
+    {
+      "page": 10,
+      "index": 0,
+      "bbox": [
+        164.25,
+        1619.25,
+        929.25,
+        1725.75
+      ],
+      "text": "Seven great words!",
+      "width": 765,
+      "height": 106.5,
+      "unit": "ocr-line",
+      "max_font_size": 28.35,
+      "ocr_confidence": 0.9999
+    }
+  ]
+}
